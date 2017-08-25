@@ -29,14 +29,14 @@
             android:layout_marginTop="16dp"
             android:textColor="@color/grey200" />
 
-        <ImageView
+        <android.support.v7.widget.AppCompatImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:srcCompat="@drawable/ic_keyboard_arrow_down_black_24dp"
             android:id="@+id/imageView"
             android:layout_marginTop="4dp" />
 
-        <ImageView
+        <android.support.v7.widget.AppCompatImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:srcCompat="@drawable/mushroom"
